@@ -7,7 +7,7 @@ A Flutter Project enacting the CarWale App, which is a car buy/rent/sell app.
 With the help of different layouts and widgets, this flutter project is on-going.
 For references I have used StackOverFlow leads, Google searches and Youtube videos.
 
-## Rum Commands
+## Run Commands
 
 Using VS code:
  We have Various Options to run the app, the two, I use more often are, using chrome web service or using a physical device.
