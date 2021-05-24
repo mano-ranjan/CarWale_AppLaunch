@@ -1,16 +1,16 @@
 # carwaledemo
 
-A new Flutter project.
+A Flutter Project enacting the CarWale App, which is a car buy/rent/sell app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+With the help of different layouts and widgets, this flutter project is on-going.
+For references I have used StackOverFlow leads, Google searches and Youtube videos.
 
-A few resources to get you started if this is your first Flutter project:
+## Run Commands
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Using VS code:
+ We have Various Options to run the app, the two, I use more often are, using chrome web service or using a physical device.
+ The steps are same for both of them.
+ 1. Run the pubspec.ymal file to get the dependencies and libraries.
+ 2. Go to main.dart file and run the code by clicking the play button on the top right corner by going with the option of Run without debugging if there's no need to debug.
